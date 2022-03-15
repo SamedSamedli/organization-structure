@@ -27,7 +27,7 @@
                 </div>
                 <ul class="element_children">
 
-                </ul>
+            </ul>
             </div>
         </div>
     </div>
